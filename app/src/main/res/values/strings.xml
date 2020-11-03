@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">note</string>
+    <string name="pref_night_summary"></string>
+
+</resources>
